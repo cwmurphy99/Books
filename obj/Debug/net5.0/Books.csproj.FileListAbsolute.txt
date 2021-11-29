@@ -1,0 +1,16 @@
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.csproj.AssemblyReference.cache
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.AssemblyInfoInputs.cache
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.AssemblyInfo.cs
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.exe
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.deps.json
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.runtimeconfig.json
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.runtimeconfig.dev.json
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.dll
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\ref\Books.dll
+C:\Users\eman_\workspace\csharp\Books\bin\Debug\net5.0\Books.pdb
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.dll
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\ref\Books.dll
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.pdb
+C:\Users\eman_\workspace\csharp\Books\obj\Debug\net5.0\Books.genruntimeconfig.cache
